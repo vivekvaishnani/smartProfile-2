@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    align-content: center;
+      
+}
+
+/* Navbar */
+.nav-wrapper {
+    background-color: rgb(125, 148, 148);
+    color: black;
+    
+}
+
+#navFont {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    
+}
+
+/* NavEnd */
+
+/* Main content start */
+.jumbotron{
+    z-index: -5;
+    margin: 0;
+    padding: 0;
+    height: 250px;
+    width: 100%;
+    background-image: url(images/1.jpeg);
+    background-color: rgb(63, 59, 59);
+    
+}
+
+#myImage{
+    margin: -3% 0px 0px 0px;
+    z-index: 3;
+    border: 8px solid white;
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+}
+
+#about-content{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    align-content: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    height: 440px;
+    width: 500px;
+    border: 2px solid white;
+    z-index: 4;
+}
+.project-contain{
+    max-width: 500px;
+    
+}
+
+.container{
+    margin: 40px;
+}
+
+.project{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin: 40px;
+    
+}
+
+.project-desc{
+    font-size: 20px;
+}
+
+.header-font{
+    
+    font-family: 'Alex Brush', cursive;
+    
+}
+
+/* Main content end   */
+
+
+/* Footer */
+
+.footer-style{
+    
+    font-size: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: wheat;
+    
+}
+
+#footer-style-copyright{
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    height: 80px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-color{
+    background-color:  rgb(125, 148, 148);
+}
+
+footer{
+    margin-top: 200px;
+}
+
+
